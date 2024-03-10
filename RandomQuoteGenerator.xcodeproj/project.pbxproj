@@ -11,6 +11,7 @@
 		71D20FAB2B9DBF6C00883BC0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D20FAA2B9DBF6C00883BC0 /* ContentView.swift */; };
 		71D20FAD2B9DBF6D00883BC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D20FAC2B9DBF6D00883BC0 /* Assets.xcassets */; };
 		71D20FB02B9DBF6D00883BC0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71D20FAF2B9DBF6D00883BC0 /* Preview Assets.xcassets */; };
+		71D20FB92B9DC49300883BC0 /* BackgroundData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71D20FB82B9DC49300883BC0 /* BackgroundData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		71D20FAA2B9DBF6C00883BC0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		71D20FAC2B9DBF6D00883BC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71D20FAF2B9DBF6D00883BC0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		71D20FB82B9DC49300883BC0 /* BackgroundData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				71D20FA82B9DBF6C00883BC0 /* RandomQuoteGeneratorApp.swift */,
 				71D20FAA2B9DBF6C00883BC0 /* ContentView.swift */,
+				71D20FB82B9DC49300883BC0 /* BackgroundData.swift */,
 				71D20FAC2B9DBF6D00883BC0 /* Assets.xcassets */,
 				71D20FAE2B9DBF6D00883BC0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				71D20FB92B9DC49300883BC0 /* BackgroundData.swift in Sources */,
 				71D20FAB2B9DBF6C00883BC0 /* ContentView.swift in Sources */,
 				71D20FA92B9DBF6C00883BC0 /* RandomQuoteGeneratorApp.swift in Sources */,
 			);

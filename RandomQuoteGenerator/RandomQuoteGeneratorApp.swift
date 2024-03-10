@@ -12,6 +12,7 @@ struct RandomQuoteGeneratorApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
